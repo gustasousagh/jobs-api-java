@@ -10,4 +10,6 @@ public class JobsJwtJavaApplication {
 		SpringApplication.run(JobsJwtJavaApplication.class, args);
 	}
 
+
+
 }
